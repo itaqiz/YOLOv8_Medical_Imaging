@@ -1,7 +1,7 @@
 # YOLOV8-MEDICAL-IMAGING 🤖🩺
 
 ## Introduction
-This project serves as our AI semester project for the 6th semester of BS Computer Science at XYZ University. The project focuses on applying YOLOv8 for detecting and segmenting medical anomalies in imaging data, such as X-rays, CT scans, and ultrasound images. The goal is to provide a scalable and efficient solution for accurate medical diagnoses using advanced object detection and segmentation techniques.
+This project serves as our Computer Vision semester project for the 6th semester of BS Artificial Intelligence at Bahria University Islamabad Campus. The project focuses on applying YOLOv8 for detecting and segmenting medical anomalies in imaging data, such as X-rays, CT scans, and ultrasound images. The goal is to provide a scalable and efficient solution for accurate medical diagnoses using advanced object detection and segmentation techniques.
 
 ## Table of Contents
 - [Introduction](#introduction)
